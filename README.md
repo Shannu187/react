@@ -2,6 +2,7 @@
 
 ...
 # Parcel
+- Episode02
 - Dev Build
 - Local Server
 - HMR = Hot Module Replacement
