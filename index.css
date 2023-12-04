@@ -40,6 +40,11 @@
     border: 1px solid black;
 }
 
+.filter-btn{
+    margin: 10px;
+    cursor: pointer;
+}
+
 .search{
     padding: 10px;
 }
